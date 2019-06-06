@@ -16,7 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="3.1 Crash Queue test"
-run/main_scene="res://QueueFreeCrasheTest.tscn"
+run/main_scene="res://QueueFreeCrashTest.tscn"
 config/icon="res://icon.png"
 
 [rendering]
